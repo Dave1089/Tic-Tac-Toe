@@ -1,0 +1,43 @@
+body {
+	font-family: 'Handlee', cursive;
+	font-size: 3em
+}
+
+#chokdi,
+#shun {
+	text-decoration: none;
+}
+
+.main {
+	width: 100%;
+	margin-top: 1em;
+}
+
+.selection {
+	margin-bottom: 1em;
+	font-weight:bold;
+}
+
+#board {
+	float: none;
+}
+
+#board table td {
+	text-align: center;
+	font-size: 2em;
+}
+
+.square {
+	width: 4em;
+	height: 2em;
+}
+
+.v {
+	border-left: 1px solid #000;
+	border-right: 1px solid #000;
+}
+
+.h {
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+}
